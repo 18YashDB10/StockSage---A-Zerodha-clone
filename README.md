@@ -8,9 +8,16 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ## Introduction
 StockSage is a stock trading application built using the MERN stack. Designed for both novice and experienced traders, this platform provides real-time market data and user-friendly features to enhance your trading experience.
+
+## Kite - Demo
+https://github.com/user-attachments/assets/3176d420-ef5d-4d83-858c-08ba0f191441
+
+## Zerodha Landing Page
+https://github.com/user-attachments/assets/5b1395c5-1719-4993-ba5e-ce3360e00b62
+
+
 
 ## Features
 - **Stock Trading:** Seamlessly buy and sell stocks.
