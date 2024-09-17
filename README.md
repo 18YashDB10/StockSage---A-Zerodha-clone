@@ -1,8 +1,8 @@
 # StockSage: Your Stock Trading Companion! 📈
 ## Table of Contents
 - [Introduction](#introduction)
-- [Kite - The trading platform](#Kite - Demo)
-- [Landing Page](#Zerodha Landing Page)
+- [Kite - The trading platform](#Kite-Demo)
+- [Landing Page](#Zerodha-Landing-Page)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
@@ -13,10 +13,10 @@
 ## Introduction
 As someone passionate about software development and the stock market, I embarked on an exciting journey to create StockSage, a Zerodha clone using the MERN stack. This project allowed me to blend my interests and enhance my skills in full-stack development.
 
-## Kite - Demo
+## Kite-Demo
 https://github.com/user-attachments/assets/3176d420-ef5d-4d83-858c-08ba0f191441
 
-## Zerodha Landing Page
+## Zerodha-Landing-Page
 https://github.com/user-attachments/assets/5b1395c5-1719-4993-ba5e-ce3360e00b62
 
 
