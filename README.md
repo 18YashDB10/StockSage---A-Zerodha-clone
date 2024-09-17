@@ -14,11 +14,9 @@ StockSage is a stock trading application built using the MERN stack. Designed fo
 
 ## Features
 - **Stock Trading:** Seamlessly buy and sell stocks.
-- **Real-Time Price Changes:** Stay updated with live market prices.
 - **Watch List Implementation:** Track your favorite stocks effortlessly.
 - **Holdings Order Implementation:** Manage your investments with ease.
 - **LTP Changes Through Functions:** Dynamic updates for Last Traded Price.
-- **Real-Time LTP Changes:** Instant notifications for price fluctuations.
 - **Pie Chart for Holdings:** Visual representation of your investment portfolio.
 - **Summary of Holdings and Funds:** Quick overview of assets and available funds.
 - **Adding/Withdrawing Funds:** Simple fund management.
