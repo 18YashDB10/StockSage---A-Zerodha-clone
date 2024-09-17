@@ -1,6 +1,8 @@
 # StockSage: Your Stock Trading Companion! 📈
 ## Table of Contents
 - [Introduction](#introduction)
+- [Kite - The trading platform](#Kite - Demo)
+- [Landing Page](#Zerodha Landing Page)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
