@@ -1,6 +1,6 @@
 # StockSage: Your Stock Trading Companion! 📈
 
-## Tech Stack
+
 ![download](https://github.com/user-attachments/assets/67c3787c-50dd-486c-8d2a-1830b3069f80)
 
 
