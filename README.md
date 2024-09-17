@@ -1,4 +1,11 @@
 # StockSage: Your Stock Trading Companion! 📈
+
+## Tech Stack
+![download](https://github.com/user-attachments/assets/67c3787c-50dd-486c-8d2a-1830b3069f80)
+![1_fEyeESs-HxVR7Zlr-fdlvw](https://github.com/user-attachments/assets/a8868102-af69-4379-a8c1-6dd12a19a572)
+
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Kite - The trading platform](#Kite-Demo)
