@@ -9,7 +9,7 @@
 - [License](#license)
 
 ## Introduction
-StockSage is a stock trading application built using the MERN stack. Designed for both novice and experienced traders, this platform provides real-time market data and user-friendly features to enhance your trading experience.
+As someone passionate about software development and the stock market, I embarked on an exciting journey to create StockSage, a Zerodha clone using the MERN stack. This project allowed me to blend my interests and enhance my skills in full-stack development.
 
 ## Kite - Demo
 https://github.com/user-attachments/assets/3176d420-ef5d-4d83-858c-08ba0f191441
