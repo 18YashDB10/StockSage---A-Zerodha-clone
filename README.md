@@ -4,7 +4,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,3 +31,31 @@ StockSage is a stock trading application built using the MERN stack. Designed fo
 
 ## Installation Instructions
 To get started with StockSage locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/StockSage.git
+   cd StockSage
+2. Install dependencies & Start the server:
+   ```bash
+   cd Backend
+   npm install
+   npm start
+   
+   cd ..
+   cd frontend
+   npm install
+   npm run dev
+   
+   cd ..
+   cd kite
+   npm install
+   npm run dev
+
+# Future Improvements:
+I am looking forward to enhancing StockSage based on user feedback. Suggestions for new features are always welcome!
+
+# Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details. Thank you for checking out StockSage! Let's connect and share ideas!
