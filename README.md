@@ -55,5 +55,6 @@ I am looking forward to enhancing StockSage based on user feedback. Suggestions 
 # Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details. Thank you for checking out StockSage! Let's connect and share ideas!
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit) file for details.
