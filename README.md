@@ -1,4 +1,4 @@
-# StockSage: Your Intelligent Stock Trading Companion! 📈
+# StockSage: Your Stock Trading Companion! 📈
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
